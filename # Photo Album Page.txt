@@ -1,0 +1,19 @@
+# Photo Album Page
+
+A responsive photo album webpage built using HTML and CSS only.
+
+## Features
+- Album title and description
+- Multiple photo sections
+- Grid layout using CSS Grid
+- Hover effects and transitions
+- Featured image highlighting
+- Fully responsive design
+
+## Technologies Used
+- HTML5
+- CSS3 (Grid, Flexbox, Transitions)
+
+## Constraints
+- No JavaScript
+- Static content only
